@@ -67,7 +67,6 @@ class GameListPage extends StatefulWidget {
 }
 
 class _GameListPageState extends State<GameListPage> {
-  // Agora é uma lista de mapas (nome + descrição)
   List<Map<String, String>> jogos = [];
 
   @override
